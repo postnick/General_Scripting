@@ -2,6 +2,8 @@
 
 #Assumes you have Neofetch / Flatpaks / Piholes installed. Comment out whats not needed
 
+#Don't forget to CHMOD + x this file to make it executable. 
+
 #Debian based servers
 apt-get update
 apt-get upgrade -y
