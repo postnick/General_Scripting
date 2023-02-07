@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #Script now checks to see if the text is in the file before adding it. Thanks reddit user /u/biggle-tiddie
-
 cd ~
 
 # always checks for the fastest mirrors 
