@@ -15,7 +15,7 @@ do
 		sudo wakeonlan AA:BB:CC:DD:EE:FF
             ;;
         "PC3")
-            	sudo wakeonlan AA:BB:CC:DD:EE:FF
+        sudo wakeonlan AA:BB:CC:DD:EE:FF
             ;;
         "PC4")
 		sudo wakeonlan AA:BB:CC:DD:EE:FF
